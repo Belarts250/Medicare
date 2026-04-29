@@ -15,6 +15,7 @@ const colorMap = {
   orange:  "#F59E0B",
 };
 
+// Tailwind classes for different sizes
 const sizeClasses = {
   sm: 'h-1',
   md: 'h-2',
