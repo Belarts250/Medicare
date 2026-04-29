@@ -1,4 +1,4 @@
-Medicare
+--Medicare--
 
 Privacy-Preserving AI Platform for Secure Medical Research
 
@@ -89,7 +89,7 @@ Blockchain: Ethereum or Hyperledger
 Zero-Knowledge Proofs: Circom and SnarkJS
 Database: MongoDB or PostgreSQL
 Getting Started
-git clone https://github.com/your-username/medicare.git
+git clone https://github.com/Belarts250/Medicare
 cd medicare
 npm install
 npm run dev
