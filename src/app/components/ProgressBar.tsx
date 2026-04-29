@@ -21,7 +21,6 @@ const sizeClasses = {
   md: 'h-2',
   lg: 'h-3',
 };
-// ProgressBar component with animated fill and customizable colors, sizes, and labels
 export default function ProgressBar({
   value,
   max = 100,
